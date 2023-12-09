@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BuddhaWorldGallery
 
 BuddhaWorldGallery is an online website for art lovers to be able to browse, filter, and upload buddha artifacts across the world. Users will be able to filter artifacts based on the dynasty they like, upload new artifacts to our database, and leave comments about their favorite artifacts.
@@ -120,4 +119,4 @@ mongoimport --db buddhaWorld --collection ListedArtifacts --file db/ListedArtifa
 This project is licensed under the MIT License.
 =======
 # BWG2.0
->>>>>>> origin/main
+
